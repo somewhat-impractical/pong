@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Single Player Pong</string>
+    <string name="restart_label">Restart</string>
+</resources>
